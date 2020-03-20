@@ -9,5 +9,8 @@
         <module name="wb" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wb" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
